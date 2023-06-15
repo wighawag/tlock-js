@@ -1,9 +1,6 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
     "target": "es2020",
-    "sourceMap": true,
-    "outDir": "./dist/",
     "moduleResolution": "node",
     "declaration": true,
     "allowJs": true,
